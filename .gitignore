@@ -1,0 +1,7 @@
+.env
+super-env
+.idea
+.vscode
+__pycache__
+*.iml
+words_dictionary.json
